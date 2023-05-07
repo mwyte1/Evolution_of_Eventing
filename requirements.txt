@@ -1,5 +1,5 @@
-streamlit==1.16.0
-pandas==1.5.3
-altair==4.1.0
-plotly==5.9.0
+streamlit @ file:///C:/ci_311/streamlit_1679434730347/work
+pandas @ file:///C:/ci_311_rebuilds/pandas_1679004481142/work
+altair @ file:///tmp/build/80754af9/altair_1599835197802/work
+plotly @ file:///C:/ci_311/plotly_1676443558683/work
 Pillow==9.4.0
